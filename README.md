@@ -37,7 +37,7 @@ npm install
 
 ### Step 10 — Git status check
 
-Terminal kholo **(dev server wale terminal ko band mat karna; new terminal khol lena)**.
+Terminal 
 
 Run:
 
